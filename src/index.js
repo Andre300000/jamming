@@ -1,11 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-<<<<<<< HEAD
-import App from './App/App';
-=======
+
 import App from './components/App/App';
->>>>>>> c20e3a1 (Added components to componet folder and updated Track and Tracklist components)
+
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
